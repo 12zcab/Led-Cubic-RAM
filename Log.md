@@ -42,3 +42,31 @@ What I need to do next time:
 
 8.Design a Case for It
 
+
+
+Day 2 27/5/2026
+
+What I did today:
+
+1.Finished the simple wiring thing :D
+
+2.Finished the Z80 port and Esp32 with 3.3v to 5v signal ic
+
+3.Finished the Routing of the LED cube pcb layers
+
+What i need to next time
+
+1.Route the PCB
+
+2.design a Zine Page for it
+
+3.Prepare a BOM
+
+4.Write a Simple Program for Firmware
+
+5.Write Readme.md File
+
+6.Design a Case for It
+
+https://jlcpcb.com/partdetail/XINGLIGHT-XL\_5050RGBC2812B/C2843785
+
