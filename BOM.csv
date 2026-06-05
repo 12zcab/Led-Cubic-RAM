@@ -1,0 +1,7 @@
+Component Type(Basic Usage),Component Specific Name,Component Quantity,Link
+RGB LED,WS2812B,64,https://jlcpcb.com/partdetail/XINGLIGHT-XL\_5050RGBC2812B/C2843785
+USB-C Connector (Power Only),USB_C_Receptacle_PowerOnly_6P,1,https://jlcpcb.com/partdetail/CIKI-Type_C_2_06Pin/C2987385
+Resistor,5.1k 1%,2,https://world.taobao.com/item/dW1IZW1NbW1WWGJEODhjN3FEejFjdz09.htm?spm=a21wu.10013406-tw.taglist-content.1.f08d1011ohwYFd
+OLED Display,12832 I2C OLED,1,https://world.taobao.com/item/T3FLN1ZNbHcxWjhnUk1UVUxYU0Q3QT09.htm?spm=a21wu.10013406-tw.taglist-content.1.3ca83898CD72gG
+Dual-Port SRAM,CY7C130,1,https://world.taobao.com/item/586275659639.htmw
+Voltage-Level Translator IC,TXS0108EPW,3,https://jlcpcb.com/partdetail/TexasInstruments-TXS0108EPWR/C17206

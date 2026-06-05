@@ -66,7 +66,20 @@ What i need to next time
 
 5.Write Readme.md File
 
-6.Design a Case for It
 
 https://jlcpcb.com/partdetail/XINGLIGHT-XL\_5050RGBC2812B/C2843785
 
+Day3 & Day4 Part1 Part2:
+1.Routed the PCB
+2.Prepared the BOM
+btw i will use PCBA service for the SMT parts(RGB LED and the 74 LogicIC).
+3.Prepared the Component Placement File and Gerber File for JLCPCB :D
+
+Day 4 5/6/2026
+
+What I need to do:
+1.Write a Simple Test Program
+2.Zine Page design
+
+Done both. :D
+Submitting for 1st Review :D
