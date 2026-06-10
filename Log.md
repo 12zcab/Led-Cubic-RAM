@@ -83,3 +83,8 @@ What I need to do:
 
 Done both. :D
 Submitting for 1st Review :D
+
+Day 5 10/6/2026
+Adding more detail to the Zine for Resubmision
+Added Total Cost calculation and estimate for BOM.csv
+Resubmitting for review
